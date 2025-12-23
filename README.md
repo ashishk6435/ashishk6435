@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 Recent MCA graduate actively pursuing Data Analyst / Business Analyst roles, with hands-on skills in SQL, Python, and Power BI.<br>I work at the intersection of data, logic, and business questions—cleaning raw data, analyzing trends, and building dashboards that support real decision-making. I enjoy breaking down messy datasets, writing efficient SQL queries, and using Python for data cleaning and exploratory analysis. Power BI is my go-to tool for transforming insights into clear, actionable visuals.<br>I’m continuously strengthening my foundation in data analysis, statistics, and business reporting through practical projects and self-learning. I’m particularly interested in roles where data is used to optimize processes, improve performance, and support strategic decisions.
 
